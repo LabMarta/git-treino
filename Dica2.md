@@ -9,8 +9,8 @@ git add
 
 Este comando é usado para adicionar mudanças em arquivos ao próximo "commit", e permite que você especifique quais arquivos devem ser incluídos na próxima versão do projeto. O comando é:
 
-git add <nome do arquivo>  # Adicionar um arquivo específico
-git add .  # Adicionar todos os arquivos modificados
+git add <nome do arquivo> # Adicionar um arquivo específico
+git add . # Adicionar todos os arquivos modificados
 ex.: git add README.md
 
 git commit
@@ -38,10 +38,10 @@ git branch
 
 Comando usado para criar, listar e gerenciar branches, que são as ramificações de desenvolvimento do projeto, ou seja, Branches são ramos usados para separar diferentes fluxos de trabalho e facilitar o trabalho em equipe. O comando é:
 
-git branch  # Listar todas as branches
-git branch <nome da branch>  # Criar uma nova branch
-git branch -d <nome da branch>  # Deletar uma branch
-git checkout <nome da branch>  # Mudar para uma branch específica
+git branch # Listar todas as branches
+git branch <nome da branch> # Criar uma nova branch
+git branch -d <nome da branch> # Deletar uma branch
+git checkout <nome da branch> # Mudar para uma branch específica
 ex.: git branch minhaBranch
 
 git merge
@@ -51,4 +51,4 @@ Comando usado para combinar as mudanças de uma branch em outra, sendo muito út
 git merge <nome da branch>
 ex.: git merge main
 
-jhkll
+jhkkk
