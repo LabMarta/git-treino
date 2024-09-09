@@ -50,3 +50,5 @@ Comando usado para combinar as mudanças de uma branch em outra, sendo muito út
 
 git merge <nome da branch>
 ex.: git merge main
+
+jhkll
